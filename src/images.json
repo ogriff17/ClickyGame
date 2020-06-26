@@ -1,0 +1,92 @@
+[
+    {
+        "id": "cutekitten1",
+        "image":
+        "cutekitten1.jpg",
+            "clicked": false
+    },
+
+    {
+        
+            "id": "cutekitten2",
+            "image":
+            "cutekitten2.jpg",
+                "clicked": false
+         
+    },
+
+    {
+        "id": "cutekitten3",
+        "image":
+        "cutekitten3.jpg",
+            "clicked": false
+    },
+
+    {
+        "id": "cutekitten4",
+        "image":
+        "cutekitten4.jpg",
+            "clicked": false
+    },
+
+    {
+        "id": "cutekitten5",
+        "image":
+        "cutekitten5.jpg",
+            "clicked": false
+    },
+
+    {
+        "id": "cutekitten6",
+        "image":
+        "cutekitten6.jpg",
+            "clicked": false
+    },
+
+    {
+        "id": "cutekitten7",
+        "image":
+        "cutekitten7.jpg",
+            "clicked": false
+    },
+
+    {
+        "id": "cutekitten8",
+        "image":
+        "cutekitten8.jpg",
+            "clicked": false
+    },
+
+
+    {
+        "id": "cutekitten9",
+        "image":
+        "cutekitten9.jpg",
+            "clicked": false
+    },
+
+
+    {
+        "id": "cutekitten10",
+        "image":
+        "cutekitten10.jpg",
+            "clicked": false
+    },
+
+
+    {
+        "id": "cutekitten11",
+        "image":
+        "cutekitten11.jpg",
+            "clicked": false
+    },
+
+    {
+        "id": "cutekitten12",
+        "image":
+        "cutekitten12.jpg",
+            "clicked": false
+
+    }
+
+]
