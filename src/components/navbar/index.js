@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function nav (props){
+function Nav (props){
     return (
         <nav className = "navbar navbar-dark bg-primary fixed-top">{}
             <a className = "navbar-brand" href="/"><i className ="fas fa-mouse-pointer mr-3"></i>Clicky Game</a>
@@ -12,4 +12,4 @@ function nav (props){
     );
 }
 
-export default nav; 
+export default Nav; 

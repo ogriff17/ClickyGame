@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function gamecard(props){
+function Gamecard(props){
     return (
         <div className="col-md-3">
             <div className="card grow" onClick={()=>props.clickedCard(props.id)}>
@@ -11,4 +11,4 @@ function gamecard(props){
     );
 }
 
-export default gamecard;
+export default Gamecard;

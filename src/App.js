@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
-import wrapper from "./components/wrapper";
+import Wrapper from "./components/wrapper";
 import images from "./images.json";
-import nav from "./components/navbar";
-import gamecard from "./components/gamecard";
+import Nav from "./components/navbar";
+import Gamecard from "./components/gamecard";
 
 class App extends Component {
  state = {
@@ -50,7 +50,7 @@ class App extends Component {
   
     <div className="App">
       <header>
-      <nav
+      <Nav
       message = {this.state.message}
       score = {this.state.score}
       topScore = {this.state.topScore}
@@ -62,16 +62,16 @@ class App extends Component {
         <p className="lead">Click on a kitten to earn points, but don't click on any more than once</p>
       </div>
     </div>
-    <wrapper>
+    <Wrapper>
       {this.shuffleArray(this.state.images).map(image =>
-        <gamecard 
+        <Gamecard 
             clickedCard={this.clickedCard}
             image={image.image}
             id={image.id}
             key={image.id}
         />
         )}
-    </wrapper>
+    </Wrapper> 
     <footer className="bg-primary text-white p-4 mt-5">
       <div className="container">
         <div className="bottom">Kitten Clicky Game! by <span className="badge badge-warning">Oksana M</span>
