@@ -4,7 +4,14 @@ h2 h5 {
 }
 
 .navbar-brand{
-    color:purple;
+    color:white;
    
 }
 
+.xx-primary{
+    background-color:purple;
+}
+
+.text-white{
+    color:white;
+}

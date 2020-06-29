@@ -26,7 +26,7 @@
 }
 
 .App-link {
-  color: purple;
+  color: white;
 }
 
 @keyframes App-logo-spin {
@@ -46,12 +46,14 @@
 #score{
   text-align:center;
   margin-right:50px;
+  color:white;
 }
 
 #score2{
   text-align:center;
+  color:white;
 }
 
 .fixed-top{
-  background-color: purple;
+  background-color: white;
 }

@@ -72,7 +72,7 @@ class App extends Component {
         />
         )}
     </Wrapper> 
-    <footer className="bg-primary text-white p-4 mt-5">
+    <footer className="xx-primary text-white p-4 mt-5">
       <div className="container">
         <div className="bottom">Kitten Clicky Game! by <span className="badge badge-warning">Oksana M</span>
         </div>
