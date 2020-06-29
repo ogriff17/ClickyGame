@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.jumbotron{
+  color:rgb(75, 9, 75);
+  padding-top:90px;
+}
+
+.jumbotron-fluid{
+  background-color:plum;
+}

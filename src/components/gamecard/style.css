@@ -1,11 +1,8 @@
 .card{
     margin:30px;
-    /* border-style:solid; */
      width:144px;
     height:144px;
-    border-style:solid;
-    border-color:lightgrey;
-    border-width:20px;
+    border-style:none; 
 }
 .grow:hover{
     -webkit-transform: scale(1.1);
@@ -19,6 +16,8 @@ body{
 }
 
 .card-img{
-    width:148px;
-    height:148px;
+    width:160px;
+    height:160px;
 }
+
+

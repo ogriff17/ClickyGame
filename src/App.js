@@ -49,14 +49,14 @@ class App extends Component {
   return (
   
     <div className="App">
-      <header>
-      <Nav
+      <header id="beHeader">
+      <Nav 
       message = {this.state.message}
       score = {this.state.score}
       topScore = {this.state.topScore}
        />
        </header>
-    <div className="jumbotron jumbotron-fluid">
+    <div className="jumbotron jumbotron-fluid" id="jumboShrimp">
       <div className="container">
         <h1 className="display-4">Kitten Clicky Game</h1>
         <p className="lead">Click on a kitten to earn points, but don't click on any more than once</p>
